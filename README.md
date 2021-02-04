@@ -23,6 +23,12 @@ Project example.
   date: Fall 2020
 ```
 
+Hobbies example.
+```yaml
+- description: Coding is definitely my passion! From AI to Web Development, I've been trying to grab as much knowledge as possible!
+  logo: coding.jpg
+```
+
 Experience example.
 ```yaml
 - role: Open Source Fellow
